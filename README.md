@@ -1,6 +1,6 @@
 # Description
 
-Starter for react/redux antd stuff
+Starter for react/redux antd stuff. Running on https://tinyweather.netlify.com/
 
 # Running Locally
 
