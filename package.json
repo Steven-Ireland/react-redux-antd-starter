@@ -1,0 +1,37 @@
+{
+  "name": "react-and-redux-starter",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "antd": "^3.16.3",
+    "axios": "^0.18.0",
+    "js-cookie": "^2.2.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "^3.0.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "axios-mock-adapter": "^1.16.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.13.0"
+  }
+}

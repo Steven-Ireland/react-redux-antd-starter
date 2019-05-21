@@ -1,0 +1,10 @@
+
+.Airport {
+	max-width: 300px;
+
+	border-radius: 0.75em;
+
+	color: white;
+
+	padding: 2em;
+}
